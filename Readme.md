@@ -37,14 +37,21 @@ A powerful shell-based script that transforms your Android device into a secure,
 ## 🖥️ Accessing Your Server
 After installation, access your mobile server from any device:
 
-```bash
-ssh root@<tailscale-ip>
-```
 
-You can also serve web apps:
-```bash
-http://<tailscale-ip>:8000
+## 🔐 How Remote Access Works
+After setup:
+
+On your phone, you run:
+``` bash
+proot-distro login ubuntu
 ```
+(Ubuntu autostarts SSH and Tailscale)
+
+On your laptop (with Tailscale):
+```bash
+ssh root@100.x.x.x
+```
+You’re now inside your phone’s Ubuntu shell — just like connecting to AWS/GCP!
 
 
 
@@ -54,7 +61,6 @@ http://<tailscale-ip>:8000
 2. README.md ← Documentation
 3. scripts/ ← (Soon)
    - start_ubuntu.sh
-   - start_webserver.sh
 4. autostart/ – (Soon)
    - .bashrc
 
