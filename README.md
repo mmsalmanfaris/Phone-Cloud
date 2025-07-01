@@ -29,7 +29,7 @@ A powerful shell-based script that transforms your Android device into a secure,
 2. Paste this command in Termux:
 
 ```bash
-# curl -fsSL https://raw.githubusercontent.com/your-username/phonecloud/main/install.sh | bash
+# curl -fsSL https://raw.githubusercontent.com/mmsalmanfaris/Phone-Cloud/main/install.sh | bash
 ```
 
 
