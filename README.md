@@ -20,6 +20,7 @@ A powerful shell-based script that transforms your Android device into a secure,
 - Android phone (ARM64)
 - Internet connection
 - Termux (F-Droid version recommended)
+- [Tailscale download](https://tailscale.com/download) & login 
 
 
 
@@ -83,3 +84,5 @@ MIT License — free to use and modify.
 
 
 ## 📸 Screenshots
+![3d427d41-86e5-454e-9d78-1d8eae44698e](https://github.com/user-attachments/assets/3032107a-d370-4c87-8225-92f1e5c1e2ca)
+
