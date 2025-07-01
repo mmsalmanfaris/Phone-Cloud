@@ -50,9 +50,13 @@ http://<tailscale-ip>:8000
 
 ## 📂 What’s Inside
 
-1. install.sh – Complete automated setup script
-2. scripts/ – Optional custom scripts (Nginx, FastAPI, File Sharing, etc.)
-3. autostart/ – Startup helpers for SSH and Tailscale
+1. install.sh ← Main auto-setup script.
+2. README.md ← Documentation
+3. scripts/ ← (Soon)
+   - start_ubuntu.sh
+   - start_webserver.sh
+4. autostart/ – (Soon)
+   - .bashrc
 
 
 
