@@ -1,3 +1,5 @@
+![Gemini_Generated_Image_glli5hglli5hglli](https://github.com/user-attachments/assets/cdca94fa-40f0-43b5-8b30-8b724e2b467b)
+
 # PhoneCloud: Turn Your Android into a Portable Ubuntu Server
 
 A powerful shell-based script that transforms your Android device into a secure, internet-accessible Ubuntu server — just like an AWS EC2 instance — using Termux + Ubuntu + Tailscale. Perfect for students, developers, and non-technical users who want to learn Cloud Computing, DevOps, or host web apps **without paying for cloud VMs**.
