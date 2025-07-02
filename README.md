@@ -1,4 +1,5 @@
-![Gemini_Generated_Image_glli5hglli5hglli](https://github.com/user-attachments/assets/cdca94fa-40f0-43b5-8b30-8b724e2b467b)
+![How to make server using phone](https://github.com/user-attachments/assets/c188887b-1d29-4ab8-a364-968387a0ce5f)
+
 
 # PhoneCloud: Turn Your Android into a Portable Ubuntu Server
 
@@ -86,5 +87,6 @@ MIT License — free to use and modify.
 
 
 ## 📸 Screenshots
-![3d427d41-86e5-454e-9d78-1d8eae44698e](https://github.com/user-attachments/assets/3032107a-d370-4c87-8225-92f1e5c1e2ca)
+![build server using old phone](https://github.com/user-attachments/assets/1c814139-8f2d-428d-84ae-4a84afda37bc)
+
 
