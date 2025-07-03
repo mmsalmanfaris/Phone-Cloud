@@ -51,10 +51,19 @@ proot-distro login ubuntu
 ```
 (Ubuntu autostarts SSH and Tailscale)
 
-On your laptop (with Tailscale):
+Find your ip address of the server:
+``` bash
+tailscale ip
+```
+
+On your laptop terminal:
 ```bash
 ssh root@100.x.x.x
 ```
+Log in with the same email that you used in the phone tailscale process.
+
+Disable the KEY PAIR Expire[Optional]
+
 You’re now inside your phone’s Ubuntu shell — just like connecting to AWS/GCP!
 
 
