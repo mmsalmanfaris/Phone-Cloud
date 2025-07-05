@@ -58,7 +58,8 @@ tailscale ip
 
 On your laptop(Client):
 Visit and Download
-```https://tailscale.com/download
+```
+https://tailscale.com/download
 ```
 Then run this comman with server(phone) IP Address
 ```bash
