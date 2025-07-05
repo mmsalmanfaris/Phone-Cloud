@@ -56,7 +56,11 @@ Find your ip address of the server:
 tailscale ip
 ```
 
-On your laptop terminal:
+On your laptop(Client):
+Visit and Download
+```https://tailscale.com/download
+```
+Then run this comman with server(phone) IP Address
 ```bash
 ssh root@100.x.x.x
 ```
